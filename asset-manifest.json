@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/rportfolio/static/js/main.efc69679.chunk.js",
-    "main.js.map": "/rportfolio/static/js/main.efc69679.chunk.js.map",
+    "main.js": "/rportfolio/static/js/main.6c838762.chunk.js",
+    "main.js.map": "/rportfolio/static/js/main.6c838762.chunk.js.map",
     "runtime-main.js": "/rportfolio/static/js/runtime-main.edee0638.js",
     "runtime-main.js.map": "/rportfolio/static/js/runtime-main.edee0638.js.map",
     "static/js/2.034db02a.chunk.js": "/rportfolio/static/js/2.034db02a.chunk.js",
     "static/js/2.034db02a.chunk.js.map": "/rportfolio/static/js/2.034db02a.chunk.js.map",
     "index.html": "/rportfolio/index.html",
-    "precache-manifest.e9380beaeae2c4116b1be023380f23c5.js": "/rportfolio/precache-manifest.e9380beaeae2c4116b1be023380f23c5.js",
+    "precache-manifest.6093ee752263ec4a1b4300531af4a35c.js": "/rportfolio/precache-manifest.6093ee752263ec4a1b4300531af4a35c.js",
     "service-worker.js": "/rportfolio/service-worker.js",
     "static/js/2.034db02a.chunk.js.LICENSE.txt": "/rportfolio/static/js/2.034db02a.chunk.js.LICENSE.txt",
     "static/media/DiegoCordoba.png": "/rportfolio/static/media/DiegoCordoba.6f410f41.png",
@@ -20,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime-main.edee0638.js",
     "static/js/2.034db02a.chunk.js",
-    "static/js/main.efc69679.chunk.js"
+    "static/js/main.6c838762.chunk.js"
   ]
 }
